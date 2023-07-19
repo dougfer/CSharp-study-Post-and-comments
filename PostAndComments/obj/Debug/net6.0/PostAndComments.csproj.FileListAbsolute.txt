@@ -1,0 +1,15 @@
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\bin\Debug\net6.0\PostAndComments.exe
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\bin\Debug\net6.0\PostAndComments.deps.json
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\bin\Debug\net6.0\PostAndComments.runtimeconfig.json
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\bin\Debug\net6.0\PostAndComments.dll
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\bin\Debug\net6.0\PostAndComments.pdb
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.csproj.AssemblyReference.cache
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.AssemblyInfoInputs.cache
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.AssemblyInfo.cs
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.csproj.CoreCompileInputs.cache
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.dll
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\refint\PostAndComments.dll
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.pdb
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\PostAndComments.genruntimeconfig.cache
+E:\Pessoal\CSharp\projetos\PostAndComments\PostAndComments\obj\Debug\net6.0\ref\PostAndComments.dll
